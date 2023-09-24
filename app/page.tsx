@@ -3,7 +3,7 @@ import styles from "../styles/Home.module.css";
 export const metadata = {
   title: "Coming Soon",
   description:
-    "The Simples blue bird social media clone, for free, and open source.",
+    "The simplest blue bird social media clone, for free, and open source.",
 };
 
 function Home() {

@@ -5,7 +5,10 @@
     "react-core": "^0.0.0"
   },
   "devDependencies": {
-    "prettier": "^3.0.3"
+    "@types/node": "20.6.4",
+    "@types/react": "18.2.22",
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2"
   },
   "scripts": {
     "dev": "next dev",
